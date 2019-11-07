@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class DefaultController {
     @RequestMapping("/hi")
     public String sayHi(){
-        return "hello ctg";
+        return "hello microserver-eadp";
     }
 
 
